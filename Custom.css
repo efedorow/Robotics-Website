@@ -1,0 +1,38 @@
+
+p.Ernesto {
+	padding: 10px;
+	text-align: center;
+	font-family: arial;
+	font-size: 15x;
+	width:60%;
+	margin: auto;
+}
+
+p.PAbout {
+	text-align: center;
+	font-family: arial;
+	font-size: 15x;
+}
+
+h2.H2Main {
+	text-align: center;
+}
+		
+h4.H4About {
+	text-align: center;
+}
+
+p.FIRST {
+	font-family: arial;
+	font-size: 15 px;
+}
+
+.Header1 {
+  margin-left: auto;
+  margin-right: auto;
+  width:100%;
+  background-color: #3e0276;
+  text-align: center;
+  vertical-align: middle;
+  color: #3e0276;
+}
